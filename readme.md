@@ -1,0 +1,1 @@
+Export your Illlustrator CS6 character styles, saved in character styles panel, to basic css file on your desktop.
